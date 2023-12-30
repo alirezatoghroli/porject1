@@ -1,0 +1,331 @@
+
+@font-face {
+    font-family: iranyekan;
+    src: url(font/Qs_Iranyekan.ttf);
+}
+.img-1 {
+    float: right;
+    margin-right: 100px;
+}
+.img-2 {
+    float: left;
+    width: 30px;
+    height: 30x;
+    margin-top: 5px;
+    margin-left: 70px;
+    padding: 2px;
+     background-color: white;
+     border-radius: 2px;
+}
+.img-2:hover {
+    background-color: rgb(238, 238, 238);
+}
+.connection {
+    font-size: 16px;
+    font-family: iranyekan;
+    margin: 4px;
+    margin-left: 120px;
+    margin-right: 1100px ;
+    padding-top: 5px;
+    padding: 7px;
+    padding-left: 30px;
+    background-color: rgb(248, 248, 248);
+    border-radius: 2px;
+    border: solid 1px rgb(215, 215, 215);
+    color: rgb(75, 75, 75);
+}
+.img-3 {
+    width: 100px;
+    height: 10px;
+}
+a {
+    text-decoration: none;
+    font-family: iranyekan;
+    font-size: 16px;
+
+}
+.a-1 {
+    color: rgb(75, 75, 75);
+}
+.ad-1 {
+    width: 80px;
+    height: 40px;
+    margin-left: 20px;
+    
+}
+.p-1 {
+    margin-top: 10px;
+    margin-left: 80px;
+
+}
+.p-1:hover {
+    color: rgb(135, 195, 195);
+}
+.flex-3 {
+    margin-left: 2px;
+    padding: 6px;
+    border-radius: 2px;
+    font-size: 17.5px;
+    background: 
+    linear-gradient(to right, rgb(39, 255, 201), rgb(0, 218, 225));
+    color: rgb(255, 255, 255);
+}
+.flex-1 {
+    display: flex;
+    margin-left:650px ;
+    margin-top: 10px;
+}
+.flex-2 {
+    margin-left: 2px;
+    padding: 6px;
+    border-radius: 2px;
+    font-size: 15px;
+    color: rgb(79, 79, 79);
+    font-weight: bold;
+}
+.flex-2:hover {
+    background: 
+    linear-gradient(to right, rgb(39, 255, 201), rgb(0, 218, 225));
+    color: rgb(255, 255, 255);
+}
+.header {
+    background-color: rgb(255, 255, 255);
+}
+main {
+    margin-top: 20px;
+    background-color: rgb(221, 221, 221);
+}
+.ad-3 {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.ad-2 {
+    margin-left: 2px;
+}
+.a-2 {
+    display: flex;
+    flex-wrap: wrap;
+    color: rgb(255, 255, 255);
+}
+.ad-4 {
+    position: relative;
+}
+.img-4 {
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0), rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.797)), url(img/ad4.jpg);
+    width: 250px;
+    height: 380px;
+    margin-left: 100px;
+    background-size: cover;
+}
+.img-4:hover {
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.063), rgb(0, 0, 0)), url(img/ad4.jpg);
+     
+}
+
+
+.p-3 {
+    position: absolute;
+    top: 1px;
+    margin-top: 530px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 8%;
+    margin-right: 78% ;
+    text-align: end;
+}
+.ad-5 {
+    display: inline;
+}
+.img-5 {
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0), rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.79)), url(img/ad5.jpg);
+    width: 700px;
+    height: 380px;
+    margin-left: 10px;
+    background-size: cover;
+}
+.img-5:hover {
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.066), rgb(0, 0, 0)), url(img/ad5.jpg);
+}
+.p-4 {
+    position: absolute;
+    top: 1px;
+    margin-top: 570px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 35%;
+    margin-right: 30% ;
+    text-align: end;
+}
+.img-6 {
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0), rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.79)), url(img/ad6.jpg);
+    width: 300px;
+    height: 180px;
+    margin-left: 10px;
+    background-size: cover;
+}
+.img-6:hover {
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.066), rgb(0, 0, 0)), url(img/ad6.jpg);
+}
+.p-5 {
+    position: absolute;
+    top: 1px;
+    margin-top: 370px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 72%;
+    margin-right: 7.6% ;
+    text-align: end;
+}
+
+.img-7 {
+    position: absolute;
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0), rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.79)), url(img/ad7.jpg);
+    width: 300px;
+    height: 180px;
+    margin-top: 200px;
+    right: 103px;
+    background-size: cover;
+}
+.img-7:hover {
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.066), rgb(0, 0, 0)), url(img/ad7.jpg);
+}
+.p-6 {
+    position: absolute;
+    top: 1px;
+    margin-top: 570px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 78%;
+    margin-right: 7.6% ;
+    text-align: end;
+}
+.fieldset-1 {
+    margin: 50px;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 15px;
+    border: none;
+    border-color: rgb(244, 244, 244);
+    background-color: rgb(255, 255, 255);
+}
+.legend {
+    display: inline;
+    float: right;
+    font-size: 25px;
+    color: rgb(30, 30, 30);
+
+}
+.imgpng {
+    display: inline;
+    width: 15px;
+    height: 20px;
+}
+.line {
+    height: 0.1px;
+    background-color: rgb(200, 200, 200);
+    margin-top: 20px;
+    padding-left: 43%;
+    padding-right: 43%;
+    float: left;
+    
+}
+.picture {
+    margin-top: 20px;
+}
+.picture-1 {
+    margin-top: 11px;
+}
+.pic-1 {
+    margin: 0;
+    float: left;
+}
+.ad8 {
+    width: 250px;
+    height: 150px;
+    margin-left: 6px;
+}
+.ad9 {
+    width: 250px;
+    height: 150px;
+    margin-left: 6px;
+}
+.ad10 {
+    width: 250px;
+    height: 150px;
+    margin-left: 6px;
+}
+.ad11 {
+    width: 250px;
+    height: 150px;
+    margin-left: 6px;
+}
+.ad12 {
+    width: 250px;
+    height: 150px;
+    margin-left: 6px;
+}
+.p-7 {
+    direction: rtl ;
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 1%;
+    margin-right: 77%;
+    color: rgb(66, 66, 66);
+    font-size: 17px;
+    font-weight: 600;
+}
+.p-7:hover{
+    color: rgb(0, 156, 133);
+}
+.p-8 {
+    direction: rtl ;
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 17.5%;
+    margin-right: 59.5%;
+    color: rgb(66, 66, 66);
+    font-size: 17px;
+    font-weight: 600;
+}
+.p-8:hover {
+    color: rgb(0, 156, 133);
+}
+.p-9 {
+    direction: rtl ;
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 35.5%;
+    margin-right: 42.7%;
+    color: rgb(66, 66, 66);
+    font-size: 17px;
+    font-weight: 600; 
+}
+.p-9:hover {
+    color: rgb(0, 156, 133);
+}
+.p-10 {
+    direction: rtl ;
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 52.5%;
+    margin-right: 25%;
+    color: rgb(66, 66, 66);
+    font-size: 17px;
+    font-weight: 600;
+}
+.p-10:hover {
+    color: rgb(0, 156, 133);
+}
+.p-11 {
+    direction: rtl ;
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 69%;
+    margin-right: 7.5%;
+    color: rgb(66, 66, 66);
+    font-size: 17px;
+    font-weight: 600;
+}
+.p-11:hover {
+    color: rgb(0, 156, 133);
+}
